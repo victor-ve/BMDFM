@@ -1,1 +1,1 @@
-# BMDFM
+# Binary Modular Dataflow Machine (BMDFM)
